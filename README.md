@@ -2,7 +2,7 @@
 
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baratella-1b71092a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baratell4/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://www.instagram.com/baratell4/](https://w.app/lOj31h))
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511958464872?text=)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Baratella7&show_icons=true&theme=onedark)
 
