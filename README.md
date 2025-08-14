@@ -18,7 +18,7 @@
   
 </div>
  Dedicado a adquirir conhecimento e aperfeiçoar minhas habilidades em programação.
- Se quiser ver alguns projetos feito é só clicar nos icones ali em cima. Tamo junto!
+ 
 
 
 
