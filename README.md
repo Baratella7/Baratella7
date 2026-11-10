@@ -1,24 +1,34 @@
-### Bem vindo ao meu mundo da programação! 👋
+# Gabriel Baratella 👋
 
-[![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baratella-1b71092a6/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baratell4/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511958464872?text=)
+**Inteligência Artificial · LLMs · IA Generativa · Python**
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Baratella7&show_icons=true&theme=onedark)
+Construo meu portfólio com foco em inteligência artificial aplicada, usando Python para desenvolver soluções com modelos de linguagem e IA generativa.
 
-### Linguagens de conhecimento
+Compartilho aqui a evolução dos meus projetos, as decisões técnicas e os aprendizados de cada etapa.
 
-<div style="dispçay: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  
-</div>
- Dedicado a adquirir conhecimento e aperfeiçoar minhas habilidades em programação.
- 
+## Projetos em destaque
 
+### 📚 [DBV AI](https://github.com/Baratella7/DBV_AI) — em desenvolvimento
 
+Projeto de assistente para consultas ao Manual Administrativo dos Desbravadores, com proposta de usar **RAG (Retrieval-Augmented Generation)** para fundamentar respostas no conteúdo dos documentos.
 
+- **Etapa publicada:** leitura e extração de texto de PDFs com Python e PyMuPDF.
+- **Próximas etapas:** preparação dos documentos, recuperação de trechos relevantes e integração com um LLM para gerar respostas com referências às fontes.
+
+### 🔎 [Extração de contatos com IA](https://github.com/Baratella7/Projeto-Python)
+
+Aplicação em Python que consulta uma lista de sites, utiliza a API da OpenAI para identificar telefones de contato e exporta os resultados em CSV.
+
+- **Aplicação de LLMs:** extração de informações a partir do conteúdo de páginas web.
+- **Tecnologias utilizadas:** Python, requests, BeautifulSoup e API da OpenAI.
+
+## Foco de desenvolvimento
+
+- **Python para IA:** integração com APIs, processamento de documentos e automação.
+- **LLMs e IA generativa:** construção de aplicações com modelos de linguagem.
+- **RAG:** estudo e desenvolvimento de sistemas de consulta a documentos.
+- **Qualidade das soluções:** aprofundamento em avaliação de respostas, análise de erros, custo e latência.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-baratella-1b71092a6/) · [Instagram](https://www.instagram.com/baratell4/) · [WhatsApp](https://wa.me/5511958464872)
